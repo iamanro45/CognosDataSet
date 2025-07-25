@@ -1,2 +1,6 @@
-Employee_Gender
+Name,Age,Employee_Gender,Score
+Alice,24,Female,85
+Bob,22,Male,90
+Charlie,23,Male,78
+Diana,25,Female,92
 
